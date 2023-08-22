@@ -1,0 +1,5 @@
+let first = document.getElementById("span")
+first.getAttribute("class")
+first.hasAttribute("class")
+first.setAttribute("class", "one two")
+first.removeAttribute("class")

@@ -1,0 +1,24 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+header
+{
+    display: flex;
+    height: 8vh;
+    width: 100vw;
+    color: black;
+}
+header ul
+{
+    display: flex;
+}
+header ul li
+{
+    margin: 20px;
+    text-decoration: none;
+    display: inline-block;
+
+}
