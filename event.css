@@ -1,0 +1,38 @@
+.fb
+{
+    background-color: rgb(66, 110, 230);
+}
+.insta
+{
+    background-color: red;
+}
+.snap
+{
+    background-color: yellow;
+}
+.git
+{
+    background-color: black;
+    color: white;
+}
+.ll
+{
+    background-color: rgb(29, 119, 215);
+}
+
+.circle
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+
+    background-color: yellow;
+}
+.bulb
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: white;
+}
+
