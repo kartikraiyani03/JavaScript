@@ -1,0 +1,6 @@
+let id1 = document.getElementById("id1")
+console.log(id1)
+id1.matches(".box1")
+id2.matches(".box1")
+id1.matches(".box2")
+id2.matches(".box2")
