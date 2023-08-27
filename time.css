@@ -1,0 +1,29 @@
+#box01
+{
+    height: 100vh;
+    width: 100vw;
+}
+.red
+{
+    background-color: red;
+}
+.yellow
+{
+    background-color: yellow;
+}
+.green
+{
+    background-color: green;
+}
+.blue
+{
+    background-color: blue;
+}
+.orange
+{
+    background-color: orange;
+}
+.purple
+{
+    background-color: purple;
+}
